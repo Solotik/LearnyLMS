@@ -1,0 +1,138 @@
+.task-list {
+   max-width: 68.875rem;
+   min-height: 54.3125rem;
+}
+
+.task-list__container {
+   max-width: 1102px;
+   min-height: 120px;
+   display: flex;
+}
+
+.task-list__line {
+   border: 0.1875rem solid #dedede;
+   width: 68.875rem;
+   height: 0px;
+}
+
+.task-list__subject {
+   max-width: 9.8125rem;
+   height: 1.875rem;
+   font-weight: 400;
+   font-size: 1.375rem;
+   color: #292c31;
+   padding: 3.1875rem 0 0 2.3125rem;
+}
+
+.task-list__quantity-tasks {
+   max-width: 9.1875rem;
+   height: 3.75rem;
+   font-weight: 400;
+   font-size: 1.375rem;
+   text-align: center;
+   color: #292c31;
+   padding: 2.5625rem 0 0 35.25rem;
+}
+
+.task-list__choose {
+   max-width: 6.375rem;
+   height: 1.875rem;
+   font-weight: 400;
+   font-size: 1.375rem;
+   text-align: center;
+   color: #292c31;
+   padding: 2.9375rem 0 0 2.125rem;
+}
+
+.tasks {
+   max-width: 100%;
+   min-height: 45.75rem;
+   padding: 1.25rem 1rem 0 1.5rem;
+}
+
+.tasks__exercise {
+   max-width: 66.375rem;
+   min-height: 2.5rem;
+   background: #d9d9d9;
+   border-radius: 0.625rem;
+   margin-bottom: 0.4375rem;
+   display: flex;
+   align-items: center;
+}
+
+.exrcise_active {
+   position: relative;
+   min-height: 5.125rem;
+}
+
+.tasks__icon-link {
+   margin: 0 0.625rem 0 0.625rem;
+}
+
+.tasks__icon{
+   rotate: -90deg;
+}
+
+.icon_acrive{
+   rotate: 0deg;
+}
+
+.icon-list_active {
+   margin: 0 0.625rem 1.875rem 0.625rem;
+}
+
+.tasks__list-link-main {
+   font-weight: 700;
+   font-size: 1.125rem;
+   color: #ba5d38;
+}
+
+.tasks__list-item-side {
+   margin-top: 8px;
+}
+
+.tasks__list-link-side {
+   font-weight: 400;
+   font-size: 1.125rem;
+   color: #ba5d38;
+}
+
+.tasks__checkbox {
+   border: 0.0625rem solid #b6b6b6;
+   border-radius: 0.25rem;
+   width: 1.25rem;
+   height: 1.25rem;
+   background: #b6b6b6;
+}
+
+
+
+.tasks__counter {
+   border-radius: 0.25rem;
+   width: 2.5rem;
+   height: 1.1875rem;
+   background: #b6b6b6;
+   text-align: right;
+   position: absolute;
+   left: 948px;
+}
+
+.tasks__task-num{
+   display: flex;
+   flex-direction: column;
+   position: absolute;
+   left: 48rem;
+}
+
+.tasks__num-item {
+   text-decoration: underline;
+   text-decoration-skip-ink: none;
+   color: #3673e3;
+   font-weight: 400;
+   font-size: 1.125rem;
+   margin: 0.625rem 0 0.3125rem 0;
+}
+
+.num-item_bold{
+	font-weight: 700;
+}

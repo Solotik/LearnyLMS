@@ -1,0 +1,14 @@
+@import url(/necolas.github.io_normalize.css_8.0.1_normalize.css);
+@import url(/global.css);
+
+@import url(/components/background.css);
+@import url(/components/sections/sections.css);
+@import url(/components/partition-path/partition-path.css);
+@import url(/components/create-task/create-task.css);
+@import url(/components/main-content/main-content.css);
+@import url(/components/main-content/task-list/task-list.css);
+@import url(/components/main/main.css);
+@import url(/components/bg-img.css);
+@import url(/components/create-button.css);
+@import url(/components/delete-button.css);
+

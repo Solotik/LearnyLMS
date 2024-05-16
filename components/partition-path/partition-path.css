@@ -1,0 +1,22 @@
+.partition-path {
+   grid-column: 2 / 4;
+   grid-row-start: 1;
+   border-radius: 20px;
+   max-width: 95.4375rem;
+   height: 3.875rem;
+   background: rgba(169, 169, 169, 0.75);
+}
+
+.partition-path_padding{
+   padding: 1.25rem 0 1.25rem 2.5rem;
+}
+
+.partition-path__item {
+   display: flex;
+}
+
+.partition-path__link {
+   margin: 0 0.3125rem;
+   font-weight: 400;
+   font-size: 20px;
+}

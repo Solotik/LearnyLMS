@@ -1,0 +1,8 @@
+.bg-img {
+   max-width: 120rem;
+   min-height: 67.625rem;
+   background-image: url(./../img/Текстуры\ бумаги\ в\ линейку\ для\ дизайнеров.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding:2.9375rem 0 2.1875rem 0;
+}

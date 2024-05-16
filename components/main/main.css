@@ -1,0 +1,7 @@
+.main{
+	max-width: 120rem;
+	min-height: 67.5rem;
+	display: grid;
+	grid-template-columns: 21.375rem 71.375rem 24.375rem;
+	grid-template-rows: 5.25rem 880px
+}

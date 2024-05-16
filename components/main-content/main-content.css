@@ -1,0 +1,10 @@
+.main-content {
+   grid-column: 2 / 3;
+   grid-row-start: 2;
+   max-width: 68.875rem;
+   min-height: 54.3125rem;
+   border-radius: 1.5625rem;
+   background-color: #fff;
+}
+
+

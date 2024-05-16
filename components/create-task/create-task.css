@@ -1,0 +1,33 @@
+.create-task {
+   grid-column-start: 3;
+   grid-row-start: 2;
+   border: 0.4375rem solid #fff;
+   border-radius: 1.5625rem;
+   max-width: 53.8125rem;
+   min-height: 53.8125rem;
+   background: #fff;
+}
+
+.create-task__button {
+   margin: 2.0625rem 4.375rem 3.0625rem 4.4375rem;
+}
+
+.create-task__text {
+   font-weight: 400;
+   font-size: 1.25rem;
+   color: #292c31;
+   margin-left: 2.625rem;
+}
+
+.create-task__link {
+   text-decoration: underline;
+   text-decoration-skip-ink: none;
+   color: #3673e3;
+   font-weight: 400;
+   font-size: 1.25rem;
+}
+
+.create-task__delete-button{
+	margin: 37.5rem 1.25rem 1.4375rem 11.0625rem;
+}
+
